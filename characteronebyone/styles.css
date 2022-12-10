@@ -1,0 +1,12 @@
+p{
+    white-space: nowrap;
+    overflow: hidden;
+    width: 710px;
+    /* background-color: yellow; */
+    animation: type 3s steps(100, end); 
+  }
+  
+  @keyframes type{ 
+    from { width: 0px; } 
+  } 
+  
